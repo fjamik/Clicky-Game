@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": 1,
+    "name": "arya_stark",
+    "image": "/assets/pix/arya_stark.jpeg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Bronn",
+    "image": "/assets/pix/bronn.jpg",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "cersei_lannister",
+    "image": "/assets/pix/cersei_lannister.jpg",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "daenerys_targaryen",
+    "image": "/assets/pix/daenerys_targaryen.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "jamie_lannister",
+    "image": "/assets/pix/jamie_lannister.jpg",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "jon_snow",
+    "image": "/assets/pix/jon_snow.jpeg",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "margaery_tyrell",
+    "image": "/assets/pix/margaery_tyrell.jpg",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "petyr_baelish",
+    "image": "/assets/pix/petyr_baelish.jpg",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "samwell_tarly",
+    "image": "/assets/pix/samwell_tarly.jpg",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "sansa_stark",
+    "image": "/assets/pix/sansa_stark.jpeg",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "tyrion_lannister",
+    "image": "/assets/pix/tyrion_lannister.jpg",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "brienne_of_tarth",
+    "image": "/assets/pix/brienne_of_tarth.jpg",
+    "count": 0
+  }
+]
