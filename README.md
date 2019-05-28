@@ -14,4 +14,4 @@
 
 
 ## Screenshot
-- ![image](https://user-images.githubusercontent.com/48258341/58512332-d9acae80-816a-11e9-99af-67a50d88040c.png)
+- ![image](https://user-images.githubusercontent.com/48258341/58513228-f944d680-816c-11e9-85c3-5f28aa7d4b57.png)
